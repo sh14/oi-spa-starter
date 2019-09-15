@@ -100,7 +100,9 @@ GitHub.sublime-settings
 nbproject/private/
 build/
 nbbuild/
-dist/
+dist/css/*
+dist/js/*
+dist/*.*
 nbdist/
 .nb-gradle/
 ### NotepadPP template
